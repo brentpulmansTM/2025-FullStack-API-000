@@ -1,4 +1,4 @@
-# 1ITF Full Stack Essentials - back-end (2024-2025)
+# 1ITF Full Stack Essentials - back-end (2025-2026)
 
 ## Team [team number]
 
